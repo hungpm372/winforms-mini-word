@@ -1,0 +1,16 @@
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\MiniWord_PhanMinhHưng.csproj.AssemblyReference.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\MiniWord_PhanMinhHưng.Properties.Resources.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\MiniWord_PhanMinhHưng.csproj.GenerateResource.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\MiniWord_PhanMinhHưng.csproj.CoreCompileInputs.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\MiniWord_PhanMinhHưng.frmHung.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\MiniWord_PhanMinhHưng.frmFindAndReplace.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\bin\Debug\Mini Word.exe.config
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\bin\Debug\Mini Word.exe.manifest
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\bin\Debug\Mini Word.application
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\bin\Debug\Mini Word.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\bin\Debug\Mini Word.pdb
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\Mini Word.TrustInfo.xml
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\Mini Word.exe.manifest
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\Mini Word.application
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\Mini Word.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 3\MiniWord_PhanMinhHưng\obj\Debug\Mini Word.pdb
